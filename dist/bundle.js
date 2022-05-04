@@ -16,7 +16,7 @@
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\nObject(function webpackMissingModule() { var e = new Error(\"Cannot find module './style.css'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n\r\n\r\nconsole.log('Hello World');\r\n\n\n//# sourceURL=webpack://webpack-set-up/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\nObject(function webpackMissingModule() { var e = new Error(\"Cannot find module './style.css'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n\r\n\r\nconsole.log('Hello World');\r\n\n\n//# sourceURL=webpack://webpack-boilerplate/./src/index.js?");
 
 /***/ })
 

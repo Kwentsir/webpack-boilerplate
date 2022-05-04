@@ -28,13 +28,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kelvinbush/Webpack-set-up.git"
+    "url": "https://github.com/Kwentsir/webpack-boilerplate"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kelvinbush/Webpack-set-up/issues"
+    "url": "https://github.com/Kwentsir/webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/kelvinbush/Webpack-set-up#readme"
+  "homepage": "https://github.com/Kwentsir/webpack-boilerplate#readme"
 }
